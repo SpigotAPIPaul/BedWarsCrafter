@@ -1,0 +1,8 @@
+name: BedWars
+version: ${project.version}
+main: net.craftergames.spigotpaul.bedwars.BedWars
+api-version: 1.17
+authors: [ SpigotPaul ]
+
+commands:
+  setpos:
